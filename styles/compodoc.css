@@ -93,9 +93,11 @@ a[href] {
 
 .navbar-brand {
     height: 50px;
-    font-size: 14px;
+    font-size: 28px;
     line-height: 20px;
     padding: 15px;
+    font-weight: bold;
+    color: #0A715A;
 }
 
 .navbar-static-top {
